@@ -2,7 +2,9 @@
 Simple E-Channeling(Doctor) application using jsp and netbeans.
 
 # Instructions
-[DRChanneling Instructions.pdf]()
+[Instructions to run the NetBeans Project.pdf](https://github.com/hasithakarunathilaka96/E-Channeling_Application/files/6933701/Instructions.to.run.the.NetBeans.Project.pdf)
 
-# Database
-[Database.txt]()
+
+# Database Queries
+[Database Queries.txt](https://github.com/hasithakarunathilaka96/E-Channeling_Application/files/6933710/Database.Queries.txt)
+
