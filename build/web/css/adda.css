@@ -1,0 +1,37 @@
+       @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+	box-size: border-box;
+}
+.addap{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    background: rgba(0,0,0,0.2);
+    padding: 20px;
+}
+.category{
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    width: 300px;
+    margin-top: 5px;
+   height: 40px;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+.dis{
+    position:absolute;
+    top:60%;
+    left: 60%;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+       
+}
+        
